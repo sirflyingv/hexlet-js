@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/sirflyingv/hexlet-js/issues"
   },
-  "homepage": "https://github.com/sirflyingv/hexlet-js#readme"
+  "homepage": "https://github.com/sirflyingv/hexlet-js#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  },
+  "devDependencies": {
+    "jest": "^29.3.1"
+  }
 }
